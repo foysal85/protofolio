@@ -1,0 +1,32 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orage {
+    color: darkorange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.Link-button {
+    color: red;
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
